@@ -27,3 +27,7 @@ This repository aims to adhere to Semantic Versioning 2.0.0.
 See the "**Release Note**" from [**Releases**] for this repository.
 
 Each release is generated in the main branch. Pre-releases are generated in the develop branch. Releases will not be provided by other branches.
+
+## Security
+
+Before using Codespaces, please read the Site Policy of GitHub and understand the usage conditions.
