@@ -13,7 +13,7 @@ This is a sample of "**Vision and Sensing Application SDK**" and "**Cloud SDK**"
 - [Contact us](https://developer.aitrios.sony-semicon.com/contact-us/)
 
 ## See also
-- ["**Developer Site**"](https://developer.aitrios.sony-semicon.com/en)
+- ["**Developer Site**"](https://developer.aitrios.sony-semicon.com/en/edge-ai-sensing/)
 
 ## Trademark
 - [Read This First](https://developer.aitrios.sony-semicon.com/development-guides/documents/manuals/)
