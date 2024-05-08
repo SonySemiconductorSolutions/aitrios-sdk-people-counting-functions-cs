@@ -1,22 +1,22 @@
 # aitrios-sdk-people-counting-functions-cs
 
 ## About this Software
-This is a sample of "**Vision and Sensing Application SDK**" and "**Cloud SDK**". Please note the following when using it：
+This is a sample of "**Edge Application SDK**" and "**Cloud SDK**". Please note the following when using it：
 
 - This sample is released with the assumption it will be used for development.
-- This sample may contain errors or defects that obstruct regular operation of the device.
+- This sample may contain errors or defects that obstruct regular operation of the Edge Device.
 
 ## Restrictions
 - None
 
 ## Get support
-- [Contact us](https://developer.aitrios.sony-semicon.com/contact-us/)
+- [Contact us](https://developer.aitrios.sony-semicon.com/en/edge-ai-sensing/contact-us/)
 
 ## See also
 - ["**Developer Site**"](https://developer.aitrios.sony-semicon.com/en/edge-ai-sensing/)
 
 ## Trademark
-- [Read This First](https://developer.aitrios.sony-semicon.com/development-guides/documents/manuals/)
+- [Read This First](https://developer.aitrios.sony-semicon.com/en/edge-ai-sensing/documents/read-this-first/)
 
 ## Versioning
 
